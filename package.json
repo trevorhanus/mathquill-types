@@ -1,0 +1,19 @@
+{
+  "name": "@trevorhanus/mathquill-types",
+  "version": "0.0.1",
+  "description": "TypeScript definitions for mathquill",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Trevor Hanus",
+      "url": "https://github.com/trevorhanus"
+    }
+  ],
+  "main": "",
+  "repository": {
+    "type": "git"
+  },
+  "scripts": {},
+  "dependencies": {},
+  "typeScriptVersion": "2.3"
+}
